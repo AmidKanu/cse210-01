@@ -89,8 +89,6 @@ def compMove():
 printBoard(board)
 
 
-
-
 while not checkForWin():
     compMove()
     playerMove()
